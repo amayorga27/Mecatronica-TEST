@@ -3,6 +3,8 @@ Repositorio de pruebas para la asignatura de Mecatrónica.
 
 Probando, probando...
 
-_____________________________________
-Probando un segundo cambio....       |
-_____________________________________|
+++++++++++++++++++++++++++++++++++++
+Probando un segundo cambio....     +
+++++++++++++++++++++++++++++++++++++
+
+Arreglando el cambio anterior...
