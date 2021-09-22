@@ -8,3 +8,5 @@ Probando un segundo cambio....     +
 ++++++++++++++++++++++++++++++++++++
 
 Arreglando el cambio anterior...
+
+![](Ejercicio2-img1.gif)
